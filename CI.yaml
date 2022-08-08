@@ -23,6 +23,7 @@ payload:
   - DOMAIN-SUFFIX,biligame.com
   - DOMAIN-SUFFIX,bilibili.com
   - DOMAIN-SUFFIX,bilivideo.com
+  - DOMAIN-SUFFIX,bilivideo.cn
   - DOMAIN-SUFFIX,caiyunapp.com
   - DOMAIN-SUFFIX,coolapk.com
   - DOMAIN-SUFFIX,clouddn.com
