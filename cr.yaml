@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-KEYWORD,amazon
+  - DOMAIN-SUFFIX,yuri.website
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,gmail
   - DOMAIN-KEYWORD,youtube
