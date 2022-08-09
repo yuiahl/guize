@@ -52,6 +52,7 @@ payload:
   - DOMAIN-SUFFIX,g-cores.com
   - DOMAIN-SUFFIX,godic.net
   - DOMAIN-SUFFIX,gtimg.com
+  - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,hongxiu.com
   - DOMAIN-SUFFIX,huya.com
   - DOMAIN-SUFFIX,hdslb.com
