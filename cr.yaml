@@ -4,8 +4,10 @@ payload:
   - DOMAIN-SUFFIX,dmhy.org
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,gmail
+  - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-KEYWORD,youtube
   - DOMAIN-KEYWORD,facebook
+  - DOMAIN-SUFFIX,t.me
   - DOMAIN-SUFFIX,fb.me
   - DOMAIN-SUFFIX,fbcdn.net
   - DOMAIN-KEYWORD,twitter
