@@ -1,6 +1,7 @@
 payload:
   - DOMAIN-SUFFIX,cn
   - DOMAIN-KEYWORD,-cn
+  - DOMAIN-SUFFIX,yuri.website
   - DOMAIN-SUFFIX,126.com
   - DOMAIN-SUFFIX,126.net
   - DOMAIN-SUFFIX,127.net
@@ -14,6 +15,7 @@ payload:
   - DOMAIN-KEYWORD,alicdn
   - DOMAIN-KEYWORD,alipay
   - DOMAIN-KEYWORD,aliyun
+  - DOMAIN-SUFFIX,asmr.one
   - DOMAIN-KEYWORD,taobao
   - DOMAIN-SUFFIX,amap.com
   - DOMAIN-SUFFIX,autonavi.com
@@ -51,6 +53,7 @@ payload:
   - DOMAIN-SUFFIX,g-cores.com
   - DOMAIN-SUFFIX,godic.net
   - DOMAIN-SUFFIX,gtimg.com
+  - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,hongxiu.com
   - DOMAIN-SUFFIX,huya.com
   - DOMAIN-SUFFIX,hdslb.com
