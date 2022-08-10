@@ -2,6 +2,7 @@ payload:
   - DOMAIN-KEYWORD,amazon
   - DOMAIN-SUFFIX,yuri.website
   - DOMAIN-SUFFIX,dmhy.org
+  - DOMAIN-SUFFIX,ihcloud.net
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,gmail
   - DOMAIN-SUFFIX,gstatic.com
