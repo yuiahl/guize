@@ -4,7 +4,7 @@ payload:
   - DOMAIN-SUFFIX,dmhy.org
   - DOMAIN-SUFFIX,ihcloud.net
   - DOMAIN-SUFFIX,gvt0.com
-  - DOMAIN-KEYWORD,pximg.net
+  - DOMAIN-SUFFIX,pximg.net
   - DOMAIN-KEYWORD,gmail
   - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-KEYWORD,youtube
