@@ -238,6 +238,7 @@ payload:
   - DOMAIN-SUFFIX,symauth.com
   - DOMAIN-SUFFIX,symcb.com
   - DOMAIN-SUFFIX,symcd.com
+  - DOMAIN-SUFFIX,t66y.com
   - DOMAIN-SUFFIX,tapbots.com
   - DOMAIN-SUFFIX,tapbots.net
   - DOMAIN-SUFFIX,tdesktop.com
