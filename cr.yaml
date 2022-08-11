@@ -18,6 +18,8 @@ payload:
   - DOMAIN-KEYWORD,twitter
   - DOMAIN-KEYWORD,instagram
   - DOMAIN-KEYWORD,dropbox
+  - DOMAIN-SUFFIX,sharepoint.com
+  - DOMAIN-SUFFIX,msauth.net
   - DOMAIN-SUFFIX,twimg.com
   - DOMAIN-KEYWORD,blogspot
   - DOMAIN-SUFFIX,youtu.be
