@@ -3,7 +3,7 @@ payload:
   - DOMAIN-SUFFIX,yuri.website
   - DOMAIN-SUFFIX,dmhy.org
   - DOMAIN-SUFFIX,ihcloud.net
-  - DOMAIN-SUFFIX,gvt0.com
+  - DOMAIN-KEYWORD,google
   - DOMAIN-SUFFIX,pximg.net
   - DOMAIN-KEYWORD,gmail
   - DOMAIN-SUFFIX,gstatic.com
