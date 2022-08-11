@@ -1,5 +1,7 @@
 payload:
   - DOMAIN-KEYWORD,amazon
+  - DOMAIN-SUFFIX,msn.com
+  - DOMAIN-SUFFIX,bing.net
   - DOMAIN-SUFFIX,yuri.website
   - DOMAIN-SUFFIX,dmhy.org
   - DOMAIN-SUFFIX,ihcloud.net
