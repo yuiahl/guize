@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,dmhy.org
   - DOMAIN-SUFFIX,ihcloud.net
   - DOMAIN-KEYWORD,google
+  - DOMAIN-KEYWORD,microsoft
   - DOMAIN-SUFFIX,pximg.net
   - DOMAIN-KEYWORD,gmail
   - DOMAIN-SUFFIX,gstatic.com
@@ -170,7 +171,6 @@ payload:
   - DOMAIN-SUFFIX,mega.co.nz
   - DOMAIN-SUFFIX,mega.nz
   - DOMAIN-SUFFIX,megaupload.com
-  - DOMAIN-SUFFIX,microsofttranslator.com
   - DOMAIN-SUFFIX,mindnode.com
   - DOMAIN-SUFFIX,mobile01.com
   - DOMAIN-SUFFIX,modmyi.com
